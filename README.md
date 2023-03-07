@@ -7,4 +7,4 @@ yarn dev
 
 ### Live example
 
-Click [https://fluffy-starship-8795d4.netlify.app/](here)
+Click [here](https://fluffy-starship-8795d4.netlify.app/)
