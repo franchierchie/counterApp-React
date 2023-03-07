@@ -2,6 +2,12 @@
 ### Install yarn packages
 
 ```
+yarn
+```
+
+### Usage
+
+```
 yarn dev
 ```
 
